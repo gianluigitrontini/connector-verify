@@ -1,2 +1,3 @@
-# connector-verify
-The description of my work for Aircury's School Verify and Connector
+# Aircury Connector & School Verify
+
+The description of my work for Aircury Connector and Aircury School Verify
